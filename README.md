@@ -6,14 +6,14 @@
 
 This project leveraged the power of Azure Data Lake Gen2 for Datalake, Azure Databricks for processing the transformation, and Azure Key Vault for securely accessing the data from Datalake within the Notebook.
 
-🔑 Learnings and achievements.
-✅ Build an Architecture diagram for data flow ( raw -> processed -> presentation)
-✅ Build Data Lake using Azure Data Lake Gen 2
-✅ Securely stored the secrets/credentials using Azure Key Vault
-✅ Transformed the data using Azure Databricks for reporting and analysis
-✅ Analyzed the data using Databricks and created Dashboard
-✅ Good understanding of the data to implement a business use case
-✅ Created External and Managed tables using Spark (PySpark and Spark SQL)
+## 🔑 Learnings and achievements.
+- ✅ Build an Architecture diagram for data flow ( raw -> processed -> presentation)
+- ✅ Build Data Lake using Azure Data Lake Gen 2
+- ✅ Securely stored the secrets/credentials using Azure Key Vault
+- ✅ Transformed the data using Azure Databricks for reporting and analysis
+- ✅ Analyzed the data using Databricks and created Dashboard
+- ✅ Good understanding of the data to implement a business use case
+- ✅ Created External and Managed tables using Spark (PySpark and Spark SQL)
 
 ## Architecture:
 
