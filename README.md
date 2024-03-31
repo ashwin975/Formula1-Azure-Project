@@ -19,6 +19,10 @@ This project leveraged the power of Azure Data Lake Gen2 for Datalake, Azure Dat
 
 ![alt text](https://github.com/ashwin975/Formula1-Azure-Project/blob/main/Formula1-Azure%20(1).svg)
 
+## Data Model:
+
+![alt text](https://github.com/ashwin975/Formula1-Azure-Project/blob/main/formula1_ergast_db_data_model.png)
+
 ## Process Overview:
 - Storage account, Databricks workspace, Databricks access connector, Resource group, Databricks metastore, cluster configurations were setup initially
 - Connections and access management between Azure storage container and databricks workspace were established
