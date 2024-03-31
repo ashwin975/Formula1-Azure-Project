@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-- The project is on building a cloud data pipeline for reporting and analysis of Formula1 Motor sports data.
+The project is on building a cloud data pipeline for reporting and analysis of Formula1 Motor sports data.
 
 This project leveraged the power of Azure Data Lake Gen2 for Datalake, Azure Databricks for processing the transformation, and Azure Key Vault for securely accessing the data from Datalake within the Notebook.
 
